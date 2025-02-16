@@ -12,6 +12,6 @@
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        <TextBlock Grid.Row="1" FontSize="48" HorizontalAlignment="Center">Hello World (now2)</TextBlock>
+        <TextBlock Grid.Row="1" FontSize="48" HorizontalAlignment="Center">Hello World (now3)</TextBlock>
     </Grid>
 </Window>
