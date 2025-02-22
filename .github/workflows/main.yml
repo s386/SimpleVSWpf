@@ -15,11 +15,6 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
 
-    - name: Setup .NET
-      uses: actions/setup-dotnet@v3
-      with:
-        dotnet-version: 4.8.x
-
     - name: Install NuGet
       run: choco install nuget.commandline
 
